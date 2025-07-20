@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**SuryaTeja-aiml/SuryaTeja-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Surya Teja! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student with a deep interest in learning and exploring new technologies.  
+I enjoy solving problems, understanding how systems work at the core, and constantly challenging myself to grow as a developer.
+
+- 💡 Passionate about programming, system internals, and AI tools  
+- 🧠 Always curious, always building  
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryateja-keerthi/)
+
+
+
+
+
+
+
+## 
+
+
+📫 How to reach me keerthisuryateja2005@gmail.com
+
+
+## 🛠 Skills
+Python, C, Java
+
