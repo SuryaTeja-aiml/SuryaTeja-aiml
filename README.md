@@ -11,20 +11,13 @@ I enjoy solving problems, understanding how systems work at the core, and consta
 
 ## 🔗 Links
 
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryateja-keerthi/)
 
-
-
-
-
-
-
 ## 
-
 
 📫 How to reach me keerthisuryateja2005@gmail.com
 
 
 ## 🛠 Skills
-Python, C, Java
-
+C, Java, Python
