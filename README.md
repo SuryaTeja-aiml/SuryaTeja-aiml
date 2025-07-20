@@ -7,7 +7,7 @@ I'm a Computer Science student with a deep interest in learning and exploring ne
 I enjoy solving problems, understanding how systems work at the core, and constantly challenging myself to grow as a developer.
 
 - 💡 Passionate about programming, system internals, and AI tools  
-- 🧠 Always curious, always building  
+- 🧠 Always curious to learn
 
 ## 🔗 Links
 
