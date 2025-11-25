@@ -41,7 +41,6 @@ Honestly, interacting with me is like calling an API that sometimes returns JSON
 ## Core Features
 
 - **Unsupervised learning:** I teach myself everything, including mistakes. Mostly mistakes.
-- **Self balancing:** I fall but don't die. Because plot armor.
 - **Debugging:** Scheduled exclusively for 3 AM, powered by existential dread and regret logs.
 - **Multitasking:** Capable of overthinking three problems while solving none.
 - **Low latency:** Response time inversely proportional to personal responsibility.
@@ -88,3 +87,4 @@ Pull requests welcome. Emotional support preferred.
 ## Contact
 
 DM me if you dare. Response time: 2-5 business days or 2 seconds, no pattern detected.
+<keerthisuryateja2005@gmail.com>
