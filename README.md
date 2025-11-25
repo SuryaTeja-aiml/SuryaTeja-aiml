@@ -11,7 +11,7 @@ A human entity currently operating in unsupervised learning mode, because nobody
 - **Version:** Human 19.0
 - **OS:** Sleep-deprived
 - **Processor:** Overthinking Quad Core
-- **Battery:** 3 percent, permanently
+- **Battery:** Unknown
 - **Cooling System:** Broken since childhood
 - **Bug Count:** Infinite
 - **Update Schedule:** Random
